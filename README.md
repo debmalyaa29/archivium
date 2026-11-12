@@ -1,4 +1,4 @@
-# 🏛 Athenaeum — Library Management System
+# 🏛 Archivium — Library Management System
 
 A comprehensive, academic **Library Management System** engineered as a college mini-project. Built strictly with standard Java 17, plain JDBC, SQLite, Javalin REST API, vanilla HTML5/CSS3/JavaScript, and a secondary JavaFX desktop admin client.
 
